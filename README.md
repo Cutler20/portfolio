@@ -2,7 +2,7 @@
 
 ## Education: 
 
-## **Indiana University**
+### **Indiana University**
 Luddy School of Informatics, Computing, and Engineering, Indianapolis, IN
 
 ### **Bachelor of Science in Informatics**, Speacalization in Applied Data Science
