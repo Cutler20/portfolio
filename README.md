@@ -1,4 +1,6 @@
-# Education:
+# Who Am I:
+
+## Education: 
 
 ## **Indiana University**
 Luddy School of Informatics, Computing, and Engineering, Indianapolis, IN
